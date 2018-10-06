@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 /**
  * Git 테스트를 위해 주석 추가
+ * add
  */
 public class MainActivity extends AppCompatActivity {
 
